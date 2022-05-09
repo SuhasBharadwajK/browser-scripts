@@ -7,7 +7,5 @@ The code in each of the .js files can be copied and pasted in the editor window 
 # Scripts:
 [facebook-sanitizer.js](src/facebook-sanitizer.js): Deletes the instagram reels and ads shown on your news feed.
 
-<br>
-
 ## 🚨 Warning 🚨: Using custom scripts in browsers from third parties in sites that contain your personal data is extremely dangerous and do it at your own risk. Read and understand the code before pasting it in the browser.
 
